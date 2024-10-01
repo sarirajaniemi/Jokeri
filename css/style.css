@@ -1,0 +1,30 @@
+td {
+    width:20px;
+    height:20px;
+
+    font-size:18px;
+    border: 2px solid;
+    text-align: center;
+    padding: 10px;
+    background-color:bisque;
+    border-radius:5px;
+    
+    
+
+    
+}
+table {
+    border-collapse:separate;
+    border-spacing:15px;
+    margin: 20px 0;
+
+}
+
+button {
+    padding:7px 12px;
+    border-radius:5px;
+    background-color:lavender;
+} p {
+    font-size: 20px;
+
+ }
